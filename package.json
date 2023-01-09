@@ -21,9 +21,9 @@
   "license": "MIT",
   "dependencies": {
     "clarify": "^1.0.5",
-    "debug": "^2.2.0",
+    "debug": "^3.1.0",
     "slack": "^7.5.7",
-    "undefsafe": "^1.1.0"
+    "undefsafe": "^2.0.5"
   },
   "devDependencies": {
     "babel-cli": "^6.8.0",
